@@ -202,6 +202,7 @@ footer p{
     margin-top: 1rem;
     margin-bottom: 4rem;
     font-size: 0.77rem;
+    padding: 0 1rem;
   }
   footer div {
     justify-content: center;
